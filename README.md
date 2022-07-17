@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Hi there, I'm Andrey
 
-You can use the [editor on GitHub](https://github.com/Uzhasniy/Uzhasniy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Python Junior developer | 21 y.o. | from Krasnodar (Russia)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Graduated from 9th grade school
+I have secondary-special education: <br>"Programming in computer systems " , 
+but they didn 't teach anything there ,<br> so I started self - education
 
 ```markdown
 Syntax highlighted code block
