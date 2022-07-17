@@ -7,7 +7,7 @@ Python Junior developer | 21 y.o. | from Krasnodar (Russia)
 Graduated from 9th grade school
 I have secondary-special education: <br>"Programming in computer systems " , 
 but they didn 't teach anything there ,<br> so I started self - education
-
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ```markdown
 Syntax highlighted code block
 
