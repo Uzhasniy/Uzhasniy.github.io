@@ -29,7 +29,7 @@ In my free time I like to play computer and board games with my girlfriend, <br>
 
 ## Communication
 
-[Telegram](https://t.me/uzh4sniy)
+[Telegram](https://t.me/uzh4sniy) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [Github](https://github.com/Uzhasniy)
 [Email](remaker1503@gmail.com)
 
