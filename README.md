@@ -1,4 +1,4 @@
-## Hi there, I'm Andrey
+# Hi there, I'm Andrey
 
 Python Junior developer 
 21 y.o. 
@@ -14,7 +14,7 @@ but they didn 't teach anything there ,<br> so I started self - education
 
 In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python
 
-### My range of knowledge
+## My range of knowledge
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,12 +22,12 @@ In my free time I like to play computer and board games with my girlfriend, <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Not coding 
+### Not coding 
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-
+[Telegram](https://t.me/uzh4sniy)
 ```markdown
 
 
