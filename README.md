@@ -27,7 +27,13 @@ In my free time I like to play computer and board games with my girlfriend, <br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+## Communication
+
 [Telegram](https://t.me/uzh4sniy)
+[Github](https://github.com/Uzhasniy)
+[Email](remaker1503@gmail.com)
+
+<!--
 ```markdown
 
 
@@ -53,3 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--!>
