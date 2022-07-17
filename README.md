@@ -14,12 +14,14 @@ but they didn 't teach anything there ,<br> so I started self - education
 
 In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python
 
-```markdown
-My range of knowledge
+### My range of knowledge
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+```markdown
+
 
 ### Header 3
 
