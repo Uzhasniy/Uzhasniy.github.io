@@ -1,18 +1,26 @@
 ## Hi there, I'm Andrey
 
-Python Junior developer | 21 y.o. | from Krasnodar (Russia)
+Python Junior developer 
+21 y.o. 
+I live in Krasnodar (Russia)
 
 ### Education
 
 Graduated from 9th grade school
 I have secondary-special education: <br>"Programming in computer systems " , 
 but they didn 't teach anything there ,<br> so I started self - education
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
+### In leisure time
+
+In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python
+
+```markdown
+My range of knowledge
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Header 3
 
 - Bulleted
